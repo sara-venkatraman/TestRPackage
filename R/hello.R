@@ -25,4 +25,5 @@
 #' @examples
 hello <- function(a, b) {
   print("Hello, world!")
+  print("Another message")
 }
